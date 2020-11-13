@@ -1,0 +1,765 @@
+@media screen and (min-width: 1100px) {
+    .containerr {
+      position: relative;
+      left: 40px;
+    }
+    .gg{
+      position: relative;
+      right: -50px;
+    }
+  
+  }
+
+
+  
+  .containerr {
+    margin-top: 170px;
+  }
+  
+  .Genius{
+    position: relative;
+    left: 10px;
+  }
+  
+  .Genius .esobtn {
+    padding: 10px 40px 10px;
+    background: transparent linear-gradient(180deg, #E0115F 0%, #700930 100%) 0% 0% no-repeat padding-box;
+box-shadow: 0px 3px 6px #00000029;
+border-radius: 5px;
+opacity: 1;
+color: white;
+  }
+  
+  .Genius .esobtn1 {
+    padding: 7px 55px 7px;
+    position: relative;
+    left: 7px;
+    border: 3px solid #455A64;
+    border-radius: 5px;
+  }
+  
+  .Genius .p1 {
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight:700;
+    font-size: 12px;
+    line-height: 150%;
+    padding-top: 10px;
+    color: #455A64;
+    opacity: 1;
+  }
+  
+  .Genius p {
+    color: #455A64;
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+  }
+  
+  .Genius .p2{
+    font-style: normal;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 13px;
+    line-height: 150%;
+    position: relative;
+    bottom: 10px;
+    color: #455A64;
+    opacity: 1;
+  }
+  .Genius h2{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 900;
+    font-size: 36px;
+    line-height: 43px;
+    color: #40337B;
+    opacity: 1;
+    margin-bottom: 30px;
+  }
+
+  
+  .section1 h2 {
+    font-style: normal;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-size: 45px;
+    line-height: 45px;
+  }
+
+  
+  .Genius1 {
+    position: relative;
+    bottom: 50px;
+    left: 40px;
+  }
+  
+  @media screen and (max-width: 700px) {
+    .Genius {
+      position: relative;
+      top: 350px;
+      left: 20px;
+    }
+    .Genius1 {
+      position: relative;
+      bottom: 350px;
+      left: 10px;
+    }
+  }
+  @media screen and (max-width: 420px){
+    .Genius1 {
+      position: relative;
+      bottom: 330px;
+    }
+  }
+  @media screen and (min-width: 380px){
+    .Genius1 .img1 {
+      /* Rectangle 6 */
+      position: absolute;
+      margin-top: 10px;
+      width: 310px;
+      height: 204px;
+      left: 85px;
+      top: 8px;
+      border-radius: 60px 50px 0px 60px;
+      padding-bottom: 8px;
+    }
+
+  }
+  @media screen and (min-width: 370px){
+    .Genius1 .img1 {
+      /* Rectangle 6 */
+      position: absolute;
+      margin-top: 10px;
+      width: 280px;
+      height: 200px;
+      left: 85px;
+      top: 8px;
+      border-radius: 60px 50px 0px 60px;
+      padding-bottom: 8px;
+    }
+  }
+  
+  @media screen and (min-width: 320px){
+    .Genius1 .img1 {
+      /* Rectangle 6 */
+      position: absolute;
+      margin-top: 10px;
+      width: 260px;
+      height: 196px;
+      left: 85px;
+      top: 8px;
+      border-radius: 60px 50px 0px 60px;
+      padding-bottom: 8px;
+    }
+  
+  }
+  
+  @media screen and (min-width: 410px){
+    .Genius1 .img1 {
+      /* Rectangle 6 */
+      position: absolute;
+      width: 470px;
+      height: 420px;
+      left: -60px;
+      top: -52px;
+      border-radius: 60px 50px 0px 60px;
+      padding-bottom: 8px;
+    }
+  }
+
+  .Genius1 .img2 {
+    width: 80%;
+    position: relative;
+    top: 100px;
+    left: 90px;
+}
+  
+  
+  .featured {
+    margin-top: 55px;
+  }
+  
+  .featured h6 {
+    color: #E0115F;
+    opacity: 1;
+    font-size: 14px;
+    position: relative;
+    left: 60px;
+  }
+  
+  .featured .forbesimg {
+    width: 7%;
+    margin: 0 50px 2px;
+  }
+  
+  .featured .forbesimg_ {
+    position: relative;
+    top: 15px;
+    left: 10px;
+  }
+  
+  .esopos3 {
+    margin-top: 130px;
+  }
+
+  .esopos3 .forbesimg_1 {
+    width: 30%;
+    position: relative;
+    left: 300px;
+    top: 0px;
+  }
+  
+  .esopos3 .img-responsive {
+    position: relative;
+    bottom: 90px;
+    width: 405px;
+    height: 280px;
+    border-radius: 100px 0px;
+  }
+  
+  .esopos4 {
+    position: relative;
+    top: 40px;
+    left: 10px;
+  }
+  
+  .esopos4 h4 {
+    font-size: 30px;
+    font-weight: 600;
+    letter-spacing: 0px;
+    color: #40337B;
+    opacity: 1;
+    font-family: 'Open Sans', sans-serif;
+  }
+  
+  .esopos4 p {
+    font-size: 18px;
+    line-height: 24px;
+    font-family: 'Roboto', sans-serif;
+    color: #455A64;
+    position: relative;
+    top: 10px;
+  }
+  
+  .esopos4 .fa {
+    padding-left: 40px;
+  }
+  
+  .esopos4 .esoposbtn {
+    position: relative;
+    top: 20px;
+    left: 30px;
+    font-family: 'Roboto', sans-serif;
+    box-shadow: 0px 3px 6px #00000029;
+    border: 3px solid #E0115F;
+  }
+  
+  .section1{
+     background: #03155F 0% 0% no-repeat padding-box;
+     margin-top: 80px;
+     padding-bottom: 250px;
+  
+  }
+  
+  .section1 p {
+    color: #FAF9FC;
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    position: relative;
+    top: 15px;
+  }
+  
+  .improve {
+    font-weight: 900;
+    font-family: 'Roboto', sans-serif;
+  }
+  
+  .esopos5 {
+    position: relative;
+    left: 80px;
+    top: 139px;
+  }
+
+  .esopos5 h1 {
+    letter-spacing: 0px;
+    color: #FAF9FC;
+    opacity: 1;
+    font-size: 28px;
+    font-family: 'Open Sans', sans-serif;
+  }
+  
+  .esopos5 .img-responsive {
+    width: 60%;
+    position: relative;
+    right: 200px;
+    top: 100px;
+  }
+
+  @media screen and (min-width: 1100px) {
+    .esopos6 .img {
+      margin-left: 80px;
+      position: relative;
+      bottom: 50px;
+    }
+    .esopos5 img {
+      position: relative;
+      margin-top: 65px;
+      margin-left: -20px;
+    }
+    .section1 p {
+      position: relative;
+      top: 50px;
+    }
+  }
+
+  .esopos6 {
+    position: relative;
+    top: 30px;
+  }
+
+  .esopos6 .img1 {
+    width: 100%;
+    position: absolute;
+    right: 25px;
+    z-index: 0;
+  }
+
+  .esopos6 .img3 {
+    width: 30%;
+    position: relative;
+    left: 65px;
+    top: 80px;
+  }
+  
+  .esopos6 .img {
+    width: 50%;
+    position: relative;
+    top: 160px;
+    left: -50px;
+    z-index: 10;
+  }
+  
+  .esopos6 .img2 {
+    width: 32%;
+    position: absolute;
+    top: 240px;
+    right: 60px;
+  }
+  
+  .esopos6 .img-responsive {
+    width: 80%;
+    position: relative;
+    left: 30px;
+    top: 40px;
+  }
+  
+  .esopos6 .img-responsive1 {
+    width: 30%;
+    position: relative;
+    bottom: 360px;
+    left: 400px;
+  }
+  
+  .esopos7 {
+    margin-top: 150px; 
+    margin-bottom: 80px;
+  }
+  
+  .esopos7 .img-responsive {
+    width: 86%;
+    position: relative;
+    left: 30px;
+    border-radius: 100px 0px;
+  }
+  
+  .esopos8 p {
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    position: relative;
+    top: 10px;
+  }
+
+  .esopos8 .img-responsive1 {
+    position: relative;
+    top: 6px;
+    right: 5px;
+    width: 100%;
+  }
+
+  .esopos8 h4 {
+    font-family: 'Open Sans', sans-serif;
+    color: #15113B;
+    opacity: 1;
+    font-size: 32px;
+    font-weight: 600;
+  }
+  
+  .esopos9 {
+    position: relative;
+    left: 50px;
+  }
+  
+  .esopos9 h1 {
+    color: #15113B;
+    opacity: 1;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 32px;
+    font-weight: 600;
+  }
+  
+  .esopos9 p {
+    position: relative;
+    left: 7px;
+    top: 10px;
+  }
+  
+  .esopos9 .span {
+    position: relative;
+    left: 12px;
+    color: #15113B;
+    opacity: 1;
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+  }
+  
+  .esopos9 img {
+    width: 3%;
+  }
+  
+  .esopos9 .atag {
+      font-size: 18px;
+      text-decoration: none;
+      position: relative;
+      left: 38px;
+      top: 10px;
+      font-family: 'Roboto', sans-serif;
+      color: #15113B;
+      opacity: 1;
+      font-weight: 600;
+  }
+  
+  .esopos9 .fas {
+    position: relative;
+    left: 10px;
+  }
+  
+  .esopos10 {
+    position: relative;
+    left: 100px;
+    top: 24px;
+    padding-bottom: 0;
+    margin-bottom: 0;
+  }
+  
+  .esopos10 .forbesimg {
+    width: 50%;
+    position: relative;
+    z-index: -5;
+  }
+  .esopos10 .forbesimg2 {
+    width: 40%;
+    position: absolute;
+    left: 130px;
+    top: 100px;
+    z-index: -10;
+  }
+  
+  .esopos10 .forbesimg1 {
+    width: 60%;
+    position: absolute;
+    left: -100px;
+    
+    top: 90px;
+  }
+
+  .section5 {
+    background: url('~assets/images/bg.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+    position: relative;
+    top: 30px;
+    margin-top: 20px;
+    padding-top: 40px;
+    padding-bottom: 50px;
+  }
+
+  .esopos11_ h2{
+    letter-spacing: -1px;
+    color: #1D293F;
+    opacity: 1;
+    font-size: 30px;
+    padding-bottom: 20px;
+  }
+
+  .esopos11__ {
+    margin-top: 30px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 2px 4px #0E567C2A;
+    opacity: 1;
+    padding: 30px 20px 10px;
+    margin: 10px;
+  }
+
+  .esopos11__ h2{
+    text-align: left;
+    font: normal normal medium 21px/29px Circular Std;
+    letter-spacing: 0px;
+    color: #1D293F;
+    opacity: 1;
+    font-size: 14px;
+    position: relative;
+    top: 14px;
+    padding-bottom: 20px;
+  }
+
+  @media (min-width: 768px) and (max-width: 991px) {
+    /* Show 4th slide on md if col-md-4*/
+    .carousel-inner .active.col-md-4.carousel-item + .carousel-item + .carousel-item + .carousel-item {
+        position: absolute;
+        top: 0;
+        right: -33.3333%;  /*change this with javascript in the future*/
+        z-index: -1;
+        display: block;
+        visibility: visible;
+    }
+  }
+  
+  .top-content{
+    margin-top: 2%;
+  }
+  
+  @media (min-width: 576px) and (max-width: 768px) {
+    /* Show 3rd slide on sm if col-sm-6*/
+    .carousel-inner .active.col-sm-6.carousel-item + .carousel-item + .carousel-item {
+        position: absolute;
+        top: 0;
+        right: -50%;  /*change this with javascript in the future*/
+        z-index: -1;
+        display: block;
+        visibility: visible;
+    }
+  }
+  @media (min-width: 576px) {
+    .carousel-item {
+        margin-right: 0;
+    }
+    /* show 2 items */
+    .carousel-inner .active + .carousel-item {
+        display: block;
+    }
+    .carousel-inner .carousel-item.active:not(.carousel-item-right):not(.carousel-item-left),
+    .carousel-inner .carousel-item.active:not(.carousel-item-right):not(.carousel-item-left) + .carousel-item {
+        transition: none;
+    }
+    .carousel-inner .carousel-item-next {
+        position: relative;
+        transform: translate3d(0, 0, 0);
+    }
+    /* left or forward direction */
+    .active.carousel-item-left + .carousel-item-next.carousel-item-left,
+    .carousel-item-next.carousel-item-left + .carousel-item,
+    .carousel-item-next.carousel-item-left + .carousel-item + .carousel-item {
+        position: relative;
+        transform: translate3d(-100%, 0, 0);
+        visibility: visible;
+    }
+    /* farthest right hidden item must be also positioned for animations */
+    .carousel-inner .carousel-item-prev.carousel-item-right {
+        position: absolute;
+        top: 0;
+        left: 0;
+        z-index: -1;
+        display: block;
+        visibility: visible;
+    }
+    /* right or prev direction */
+    .active.carousel-item-right + .carousel-item-prev.carousel-item-right,
+    .carousel-item-prev.carousel-item-right + .carousel-item,
+    .carousel-item-prev.carousel-item-right + .carousel-item + .carousel-item {
+        position: relative;
+        transform: translate3d(100%, 0, 0);
+        visibility: visible;
+        display: block;
+        visibility: visible;
+    }
+  }
+  /* MD */
+  @media (min-width: 768px) {
+    /* show 3rd of 3 item slide */
+    .carousel-inner .active + .carousel-item + .carousel-item {
+        display: block;
+    }
+    .carousel-inner .carousel-item.active:not(.carousel-item-right):not(.carousel-item-left) + .carousel-item + .carousel-item {
+        transition: none;
+    }
+    .carousel-inner .carousel-item-next {
+        position: relative;
+        transform: translate3d(0, 0, 0);
+    }
+    /* left or forward direction */
+    .carousel-item-next.carousel-item-left + .carousel-item + .carousel-item + .carousel-item {
+        position: relative;
+        transform: translate3d(-100%, 0, 0);
+        visibility: visible;
+    }
+    /* right or prev direction */
+    .carousel-item-prev.carousel-item-right + .carousel-item + .carousel-item + .carousel-item {
+        position: relative;
+        transform: translate3d(100%, 0, 0);
+        visibility: visible;
+        display: block;
+        visibility: visible;
+    }
+  }
+  
+  .carousel-item {
+      position: relative;
+      bottom: 14px;
+  }
+  
+  /* LG */
+  @media (min-width: 991px) {
+    /* show 4th item */
+    .carousel-inner .active + .carousel-item + .carousel-item + .carousel-item {
+        /* display: block; */
+    }
+    .carousel-inner .carousel-item.active:not(.carousel-item-right):not(.carousel-item-left) + .carousel-item + .carousel-item + .carousel-item {
+        transition: none;
+    }
+    /* Show 5th slide on lg if col-lg-3 */
+    .carousel-inner .active.col-lg-3.carousel-item + .carousel-item + .carousel-item + .carousel-item + .carousel-item {
+        position: absolute;
+        top: 0;
+        right: -25%;  /*change this with javascript in the future*/
+        z-index: -1;
+        display: block;
+        visibility: visible;
+    }
+    /* left or forward direction */
+    .carousel-item-next.carousel-item-left + .carousel-item + .carousel-item + .carousel-item + .carousel-item {
+        position: relative;
+        transform: translate3d(-100%, 0, 0);
+        visibility: visible;
+    }
+    /* right or prev direction //t - previous slide direction last item animation fix */
+    .carousel-item-prev.carousel-item-right + .carousel-item + .carousel-item + .carousel-item + .carousel-item {
+        position: relative;
+        transform: translate3d(100%, 0, 0);
+        visibility: visible;
+        display: block;
+        visibility: visible;
+    }
+  }
+  
+
+  .esopos11 {
+      margin-top: 85px;
+      position: relative;
+      left: 20px;
+  }
+
+  .esopos11 .forbesimg{
+      width: 88%;
+      position: relative;
+      bottom: 30px;
+      box-shadow: 0px 5px 10px #F6F2F2F2;
+  }
+
+  .esopos11 .forbesimg_1 {
+    width: 30%;
+    position: relative;
+    left: 300px;
+    top: 55px;
+  }
+
+  .esopos12 {
+    margin-top: 160px;
+    position: relative;
+    left: 15px;
+  }
+
+  .esopos12 h1{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+    color: #15113B;
+    opacity: 1;
+    font-size: 28px;
+  }
+
+  .esopos12 p {
+    color: #15113B;
+    opacity: 1;
+    font-family: 'Roboto', sans-serif;
+    position: relative;
+    top: 10px;
+    font-size: 15px;
+    font-weight: 500;
+  }
+
+  .esopos12 .img-responsive1 {
+    width: 95%;
+    position: relative;
+    top: 14px;
+  }
+
+
+  .esopos13 {
+    margin-top: 130px;
+    position: relative;
+    left: 30px;
+  }
+
+  .esopos13 h1 {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 24px;
+    line-height: 35px;
+    color: #15113B;
+    font-weight: 600;
+  }
+
+  .esopos13 .pt
+   {
+    font-family: 'Roboto', sans-serif;
+    color: #15113B;
+    font-size: 15px;
+    opacity: 1;
+    font-weight: 600;
+  }
+
+  .esopos13 .pt1 {
+    font-size: 3px;
+    line-height: 20px;
+    font-family: 'Roboto', sans-serif;
+    color: #333333;
+  }
+
+  .esopos13 .img {
+    width: 22%;
+  }
+
+  .esopos13 .pt2 {
+    font-size: 6px;
+    position: relative;
+    left: 24px;
+    color: #333333;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 600;
+  }
+
+  .esopos14 {
+    position: relative;
+    top: 140px;
+  }
+
+  .esopos14 .forbesimg_1{
+      width: 86%;
+      
+      position: relative;
+      
+      left: 13px;
+  }
+
+  .esopos14 .img {
+    position: absolute;
+    right: 30px;
+    width: 50%;
+    top: 30px;
+  }
