@@ -277,6 +277,10 @@ var flkty = new Flickity( '.container-slides', {
         padding-bottom: 80px;
     }
 
+    .esopos10{
+        padding-bottom: 40px;
+    }
+
     .esopos12 {
         position: relative;
         bottom: 20px;
@@ -284,7 +288,7 @@ var flkty = new Flickity( '.container-slides', {
     }
 
     .esopos14 {
-        margin-bottom: 100px;
+        margin-bottom: 160px;
         position: relative;
         left: 12px;
         bottom: 100px;
