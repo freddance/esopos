@@ -21,7 +21,7 @@
     </div>
 
     <section class="section_1">
-        <div class="container"> 
+        <div class="container">
             <div class="row">
                 <div class="col-lg-4 col-xl-4">
                     <p class="pt_">A platform built to make <br> complex businesses less <br> complex</p>
@@ -36,7 +36,7 @@
             </div>
         </div>
 
-        <div class="container" style="position: relative; left: 70px; top: 15px;"> 
+        <div class="container" style="position: relative; left: 70px; top: 15px;">
             <div class="row">
                 <div class="col-lg-4 col-xl-4">
                             <div class="card2" style="width: 16rem; ">
@@ -79,8 +79,10 @@
                 </div>
             </div>
         </div>
+          
+        
 
-        <div class="container" style="position: relative; left: 70px; top: 45px;" data-aos="fade-in" data-aos-duration="1700"> 
+        <div class="container" style="position: relative; left: 70px; top: 45px;" data-aos="fade-in" data-aos-duration="1700">
             <div class="row">
                 <div class="col-lg-4 col-xl-4">
                             <div class="card2" style="width: 16rem; ">
@@ -135,14 +137,14 @@
             <img  alt="bolt-claims" src="~/assets/images/shotter.png" class="img__" />
         </div>
             <div class="col-lg-6 col-xl-6 esopos_2">
-            <img alt="bolt-claims" src="~/assets/images/piechart.png" class="img__" /> 
-                    <h4>Reclaim your time and do <br class="d-none d-sm-block"> more of what you love</h4>  
-                    <p>Esopos streamlines your operations, boosts your efficiency, and helps you get the job done faster. You’ll get more hours back into your day,</p> 
-                    <img alt="bolt-claims" src="~/assets/images/owner.png" class="img__1" />  
+            <img alt="bolt-claims" src="~/assets/images/piechart.png" class="img__" />
+                    <h4>Reclaim your time and do <br class="d-none d-sm-block"> more of what you love</h4>
+                    <p>Esopos streamlines your operations, boosts your efficiency, and helps you get the job done faster. You’ll get more hours back into your day,</p>
+                    <img alt="bolt-claims" src="~/assets/images/owner.png" class="img__1" />
             </div>
-            
+
             <div class="col-lg-3 col-xl-3 esopos_2">
-                <img data-aos="fade-in" data-aos-duration="2000" alt="bolt-claims" src="~/assets/images/group.png" class="img_" />     
+                <img data-aos="fade-in" data-aos-duration="2000" alt="bolt-claims" src="~/assets/images/group.png" class="img_" />
             </div>
         </div>
     </div>
@@ -180,7 +182,7 @@
           </div>
         </div>
       </div>
-    </div>  
+    </div>
     </div>
 
     <div class="container esopos_5">
@@ -211,7 +213,7 @@
             </div>
         </div>
     </div>
-    
+
     <section class="section3">
     <div class="container">
         <div class="row">
@@ -222,7 +224,7 @@
                  <img data-aos="fade-in" data-aos-duration="2500" alt="bolt-claims" src="~/assets/images/sba.png" class="img1" />
                </div>
 
-               <div class="col-lg-6 col-xl-8 _esopos10" style="margin-top: 100px">        
+               <div class="col-lg-6 col-xl-8 _esopos10" style="margin-top: 100px">
                     <img alt="bolt-claims" src="~/assets/images/blackbuss.png" class="img1" />
                     <p data-aos="zoom-in" data-aos-duration="1200" class="pt">“Using Esopos is effortless and easy. I love being able to check the reports and access Esopos from anywhere even just from my phone when I’m out and about.”</p>
                </div>
@@ -235,7 +237,7 @@
             <div class="col-lg-6 col-xl-6 _esopos11">
                 <img alt="bolt-claims" src="~/assets/images/smartmockup.png" class="img1" />
             </div>
-            
+
             <div class="col-lg-6 col-xl-6 _esopos12">
                 <h2>The Esopos app comes with even more features</h2>
                 <p>We’ve made it our mission to ensure that the Esopos app is optimized for all devices, including tablets. the Esopos app lets you finalise a sale and also manage all other aspect of your business.</p>

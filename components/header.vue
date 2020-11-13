@@ -12,13 +12,13 @@
 
         <b-navbar-nav>
           <li class="nav-item">
-            <a class="nav-link" href="whyesopos"> <span class="learn">Why Esopos</span></a>
+            <a class="nav-link" href="/whyesopos"> <span class="learn">Why Esopos</span></a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="solution">Resourses</a>
+            <a class="nav-link" href="/solution">Resourses</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="blog">Blog</a>
+            <a class="nav-link" href="/blog">Blog</a>
           </li>
         </b-navbar-nav>
         <b-navbar-nav>
