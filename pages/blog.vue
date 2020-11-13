@@ -1,5 +1,5 @@
 <template>
-    <div>
+    <div class="div">
     <Head/>
      <section>
     <div class="container">
@@ -87,6 +87,11 @@ export default {
 </script>
 
 <style>
+
+.div {
+    overflow: hidden;
+    height: 100%;
+  }
 
 section{
     background: #F3F8FE 0% 0% no-repeat padding-box;

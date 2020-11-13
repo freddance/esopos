@@ -1,4 +1,11 @@
 @media screen and (max-width: 420px) {
+    .esopos11 {
+        overflow: hidden;
+    }
+    .hidden {
+        overflow: hidden;
+    }
+
    .esopos3 .img-responsive{
        position: relative;
        top: 50px;

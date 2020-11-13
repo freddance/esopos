@@ -1,5 +1,5 @@
 <template>
-    <div>
+    <div class="div">
     <Head/>
     <section class="sectionsubmit">
         <div class="container">
@@ -118,6 +118,12 @@ export default {
 </script>
 
 <style>
+
+.div {
+    overflow: hidden;
+    height: 100%;
+  }
+  
     .submit h2 {
         margin-top: 58px;
         position: relative;

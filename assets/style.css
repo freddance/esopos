@@ -9,7 +9,10 @@
     }
   
   }
-
+  .div {
+    overflow: hidden;
+    height: 100%;
+  }
 
   
   .containerr {

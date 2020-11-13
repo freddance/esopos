@@ -1,5 +1,5 @@
 <template>
-    <div>
+    <div class="div">
     <Head/>
     <section class="sectionsubmit">
         <div class="container">
@@ -57,6 +57,11 @@ export default {
 </script>
 
 <style>
+
+.div {
+    overflow: hidden;
+    height: 100%;
+  }
     .form_ {
         margin-top: 100px;
     }

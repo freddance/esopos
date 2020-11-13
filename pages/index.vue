@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="div">
     <div class="container containerr">
     <div class="row">
       <div class="col-lg-6 col-xl-6 col-sm-12 Genius">
@@ -83,7 +83,7 @@
       </div>
   </div>
 
-  <div class="container hidden" style="overflow: hidden;">
+  <div class="container hidden">
       <div class="row">
           <div class="col-lg-6 col-xl-6 esopos9 mt-lg-5">
               <h1>Here's why Esopos <br> is the best</h1>
@@ -104,7 +104,7 @@
       </div>
   </div>
 
-  <div class="container esopos11" style="overflow: hidden;">
+  <div class="container esopos11">
       <div class="row">
           <div class="col-lg-6 col-xl-6">
           <img class="forbesimg_1" src="~assets/images/reddotted.png" alt="">
